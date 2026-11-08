@@ -1,0 +1,13 @@
+name = "Claim Intrusion Alert: Open Parties and Claims & FTB Chunks"
+filename = "claimintrusionalert-0.2.1-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HBcRwGi9/versions/Sk1QX5fV/claimintrusionalert-0.2.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "907e9e6eaad41438c7ab96d06d346334df1019cac8934dcfba74aa6ce21270546613a8e5b84d20a3cfca742e0c46537d099a69f0e59ee5640ce66fcbd543b96d"
+
+[update]
+[update.modrinth]
+mod-id = "HBcRwGi9"
+version = "Sk1QX5fV"

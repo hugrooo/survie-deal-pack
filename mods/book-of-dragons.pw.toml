@@ -1,0 +1,13 @@
+name = "Book of Dragons"
+filename = "bookofdragons-1.4.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJee0CPJ/versions/vMbmodRN/bookofdragons-1.4.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "ce0aaf1f471b8f683a8275a7af4c4a9028010497dda9f05c25a4bc885005dd7bc7cc0b14fb1c972b6f2647f08da66707c0f5a357dda10225dc669365f228fc32"
+
+[update]
+[update.modrinth]
+mod-id = "fJee0CPJ"
+version = "vMbmodRN"

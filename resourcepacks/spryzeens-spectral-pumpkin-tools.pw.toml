@@ -1,0 +1,13 @@
+name = "Spryzeen's Spectral Pumpkin Tools"
+filename = "+§bSpectralPumpkinTools§8-[v1.0].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gCzn71cv/versions/1u7Bq8y1/%2B%C2%A7bSpectralPumpkinTools%C2%A78-%5Bv1.0%5D.zip"
+hash-format = "sha512"
+hash = "07aad50844efd34dba936647458ef4e57cc5e40ed4d544a389f5e4dd4d95a800f46a2b4d78674c8457dae30d0e1961dde8929e2688176b3b3b3088661b509f98"
+
+[update]
+[update.modrinth]
+mod-id = "gCzn71cv"
+version = "1u7Bq8y1"

@@ -1,0 +1,16 @@
+name = "Survie Deal"
+author = "Denis"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e5af852661a53c139806b3dd8dd0358c280e5259640259a6607d53b40ed62cfa"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
+
+[options]
+acceptable-game-versions = []

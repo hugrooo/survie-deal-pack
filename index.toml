@@ -1,0 +1,111 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ab1f855e056a1879e2ec3be3b780fcd0866edcaf579faf7cbd5ef62f68fb158b"
+metafile = true
+
+[[files]]
+file = "mods/book-of-dragons.pw.toml"
+hash = "84b36f21beea1d5d226bceacabe42e5be0ec86e6b58cab70aa4544ff61273bb4"
+metafile = true
+
+[[files]]
+file = "mods/chest-tracker-neoforge-port.pw.toml"
+hash = "35f9d116b1b38faffc18c028230cdbf85b3a7c94e7a0c7d6109056eefec5edcc"
+metafile = true
+
+[[files]]
+file = "mods/cinematic-interactions.pw.toml"
+hash = "2c44cb25112f901aa377a0ea611db8296420158ba2d715ca1ff82e84ecf0bc6c"
+metafile = true
+
+[[files]]
+file = "mods/claim-intrusion-alert.pw.toml"
+hash = "97382bab83622c15e2d94b621ee813edb09302316e67c8bbb0fe2e538c0e2ca8"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-core.pw.toml"
+hash = "a8c46616e68f458e8015ad738c0bd75f74dd702b4c9ea3816843dd411363e6f7"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "22185ae1ecd5e0540b49c1ce5cabd8011b0296e8fb4024b18a13ea1308fe6d75"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "ed1b9c3018ec4e6afbaafd1544138a4f11bc211683ecf9c5d28b42553f60e8c7"
+metafile = true
+
+[[files]]
+file = "mods/fauna-engine.pw.toml"
+hash = "2677ff1fc3fd91125b051425e923cb4917fc82ef720b4f293563fd1924b85ab8"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
+metafile = true
+
+[[files]]
+file = "mods/glra.pw.toml"
+hash = "9007ec250ee24a2f2477e33c55f0c79d57f0932e889224eb77ae8c983b49cbf1"
+metafile = true
+
+[[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "e464124dbd5ab9412aea3ffaee03c8a956a08400c7ba6d80084e46db9aa517f6"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
+file = "mods/mielons-the-sift.pw.toml"
+hash = "18a19f28f1b3fbe5375dd622f545f94943e477f43d4fdcb0362855785cf4e7f1"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "299ed58980f5c02afbaabcc52d5e573e8b8ab0c2c30fd688d6d7e86e7ac6bf6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1577ac815a8a978e2558c715e88258c42b53fdfda6df7f92821aa61484c2082b"
+metafile = true
+
+[[files]]
+file = "mods/touch-and-motion.pw.toml"
+hash = "28748229b2ef0c7a69c1f52aa8b1581d8d444ca6e6a30955064775da7dc81390"
+metafile = true
+
+[[files]]
+file = "mods/weather-glass.pw.toml"
+hash = "f7c557f6802f5e38a68262b060c562caf06392ff70d88aaf12b36dbc37f333f1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "aba95d9a82a7cedda4c0ce936ead9c764d0ffbc10483f0648d022213df7bb703"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f4bc20e3483a7a935b9ee674227aad73d24ecc4ea93e6c2d99955927a2197b20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spryzeens-spectral-pumpkin-tools.pw.toml"
+hash = "6ff2589dc6bb1010eeab072229d4e0bf6ca5dc162d9d5c80c0eb86320ea03099"
+metafile = true

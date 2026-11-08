@@ -1,0 +1,13 @@
+name = "Mielon's The Sift 2.0"
+filename = "mielon's-the-sift-2.0.1-mc1.21.1-neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j0IfTxBq/versions/16GdC8gA/mielon%27s-the-sift-2.0.1-mc1.21.1-neo.jar"
+hash-format = "sha512"
+hash = "245d55410d65c2a580c0a9222d1618c89a2eedc78cdfad51f9e0b08a29d54d306c1cc0951f559e172d15be5b8fc84b536ae65e0417934ec350aa438645257f24"
+
+[update]
+[update.modrinth]
+mod-id = "j0IfTxBq"
+version = "16GdC8gA"
